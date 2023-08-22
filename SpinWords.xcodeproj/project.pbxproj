@@ -27,6 +27,7 @@
 		57418BCC2A95654600580BB0 /* SpinWords */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = SpinWords; sourceTree = BUILT_PRODUCTS_DIR; };
 		57418BCF2A95654600580BB0 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		57418BD82A95661700580BB0 /* spinwords.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = spinwords.swift; sourceTree = "<group>"; };
+		57418BDA2A95697000580BB0 /* .gitignore */ = {isa = PBXFileReference; lastKnownFileType = text; path = .gitignore; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -43,6 +44,7 @@
 		57418BC32A95654600580BB0 = {
 			isa = PBXGroup;
 			children = (
+				57418BDA2A95697000580BB0 /* .gitignore */,
 				57418BCE2A95654600580BB0 /* SpinWords */,
 				57418BCD2A95654600580BB0 /* Products */,
 			);
